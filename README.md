@@ -9,3 +9,5 @@ the file will be created along with a password and key file.
 SAVE THESE FILES
 This Rat gives you the ability to remote control a pc 
 Send it to your target and wait once the file is activated you will gain access
+On start it may take anywhere from 1-3 minutes to start and may appear that it is not starting
+this is normal and the file is just preparing and downloading the requirements
